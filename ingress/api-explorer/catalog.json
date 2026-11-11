@@ -1,6 +1,6 @@
 {
-  "generatedAtUtc": "2026-11-11T12:26:42.873Z",
-  "stateId": "009-order-management-matcher",
+  "generatedAtUtc": "2026-11-11T12:27:23.027Z",
+  "stateId": "010-kubernetes-runtime",
   "mountPath": "/api/docs",
   "pubSubInspectorEnabled": true,
   "services": [
