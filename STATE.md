@@ -1,20 +1,20 @@
 # TraderX Generated State Snapshot
 
-- State ID: `012-platform-convergence-c3`
-- Title: `Platform Convergence C3`
+- State ID: `013-radius-kubernetes-platform`
+- Title: `Radius Platform on Kubernetes (Optional)`
 - Status: `implemented`
-- Feature Pack: `specs/012-platform-convergence-c3`
-- Previous States: `["011-tilt-kubernetes-dev-loop"]`
-- Next States: `["013-radius-kubernetes-platform","014-fdc3-intent-interoperability"]`
-- Convergence State: `true`
-- Convergence Level: `C3`
-- Lineage Role: `canonical`
-- Dotted Parents: `009-order-management-matcher`
-- Previous Convergence State: `009-order-management-matcher`
+- Feature Pack: `specs/013-radius-kubernetes-platform`
+- Previous States: `["012-platform-convergence-c3"]`
+- Next States: `[]`
+- Convergence State: `false`
+- Convergence Level: `none`
+- Lineage Role: `optional`
+- Dotted Parents: `none`
+- Previous Convergence State: `012-platform-convergence-c3`
 - Next Convergence State: `none`
 - Source Branch: `codex/security-refresh`
 - Source Commit: `49718550ab6738a61f87198d9843caf73a58ed74`
-- Generated At (UTC): `2026-11-11T12:29:03Z`
-- Suggested Tag: `generated/012-platform-convergence-c3/v1`
+- Generated At (UTC): `2026-11-11T12:29:50Z`
+- Suggested Tag: `generated/013-radius-kubernetes-platform/v1`
 
 Machine-readable metadata: `.traderx-state/state.json`
